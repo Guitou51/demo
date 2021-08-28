@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, assertj, graalvm, http-client, junit, kotlin, kotlin-application, kotlin-extension-functions, maven, mockito, reactor, reactor-http-client, readme, shade, slf4j-simple, spring, spring-boot, spring-web, undertow-server, yaml]
